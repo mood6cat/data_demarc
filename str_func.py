@@ -1,4 +1,7 @@
 def up_words(word):
     return word.upper()
 
-print(up_words("rrr"))
+def up_word(word):
+    return word.title()
+
+print(up_word("rrr fff"))
